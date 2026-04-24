@@ -1,0 +1,9 @@
+project_name = "exp-3-2-3"
+aws_region   = "ap-south-1"
+
+# Replace with your container image from GHCR/ECR
+container_image = "ghcr.io/<your-github-username>/exp-3-2-2-react:latest"
+
+# Optional overrides
+# desired_count = 2
+# container_port = 3000
